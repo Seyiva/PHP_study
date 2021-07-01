@@ -1,0 +1,12 @@
+footer {
+  color: green;
+}
+
+ header a {
+  color: gray;
+  text-decoration: none;
+}
+
+ header a.active {
+   text-decoration: underline;
+}
