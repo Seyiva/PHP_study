@@ -1,0 +1,33 @@
+footer {
+  color: blue;
+}
+
+header a {
+  color: blue;
+  text-decoration: none;
+}
+
+header a.active {
+  text-decoration: underline;
+}
+select {
+  outline: 0;
+}
+#wrapper{
+
+	width: 800px;
+	margin: 0px auto;
+	padding: 10px;
+
+	text-align: justify;
+}
+
+#text_block {
+visibility: hidden;
+width: 100%;
+padding: 5%;
+background: green;
+border-radius: 8px;
+text-align: center;
+color: #fff;
+}
