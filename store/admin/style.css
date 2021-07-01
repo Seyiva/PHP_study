@@ -1,0 +1,42 @@
+main table td, main table th {
+  border: 1px solid black;
+  padding: 10px ;
+}
+.success {
+  color: green;
+}
+.error {
+  color: red;
+}
+.warning {
+  color: violet;
+}
+
+footer {
+  color: blue;
+}
+
+header a {
+  color: red;
+  text-decoration: none;
+}
+header a:focus {
+  color: green;
+}
+header a:hover {
+  color: violet;
+}
+header a:active {
+  text-decoration: underline;
+}
+select {
+  outline: 0;
+}
+#wrapper{
+
+	width: 1080px;
+	margin: 0px auto;
+	padding: 10px;
+
+	text-align: justify;
+}
